@@ -98,3 +98,4 @@ C:\Users\Leôncio Cauê\Desktop\ExercismExercises\csharp\hello-world\obj\Debug\n
 C:\Users\Leôncio Cauê\Desktop\ExercismExercises\csharp\hello-world\obj\Debug\net8.0\HelloWorld.pdb
 C:\Users\Leôncio Cauê\Desktop\ExercismExercises\csharp\hello-world\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
 C:\Users\Leôncio Cauê\Desktop\ExercismExercises\csharp\hello-world\obj\Debug\net8.0\ref\HelloWorld.dll
+C:\Users\Leôncio Cauê\Desktop\ExercismExercises\csharp\hello-world\obj\Debug\net8.0\HelloWorld.sourcelink.json
