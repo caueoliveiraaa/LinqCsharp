@@ -1,1 +1,9 @@
-{"track":"csharp","exercise":"bird-watcher","id":"93cc3f2b783b43db86fdb993a7276bfb","url":"https://exercism.org/tracks/csharp/exercises/bird-watcher","handle":"MrRobotPhp","is_requester":true,"auto_approve":false}
+{
+    "track": "csharp",
+    "exercise": "bird-watcher",
+    "id": "93cc3f2b783b43db86fdb993a7276bfb",
+    "url": "https://exercism.org/tracks/csharp/exercises/bird-watcher",
+    "handle": "MrRobotPhp",
+    "is_requester": true,
+    "auto_approve": false
+}
