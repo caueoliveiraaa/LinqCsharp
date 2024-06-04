@@ -4,20 +4,11 @@ class BirdCount
 {
     private int[] birdsPerDay;
 
-    public BirdCount(int[] birdsPerDay)
-    {
-        this.birdsPerDay = birdsPerDay;
-    }
+    public BirdCount(int[] birdsPerDay) => this.birdsPerDay = birdsPerDay;
 
-    public static int[] LastWeek()
-    {
-        return [0, 2, 5, 3, 7, 8, 4];
-    }
+    public static int[] LastWeek() => [0, 2, 5, 3, 7, 8, 4];
 
-    public int Today()
-    {
-        return this.birdsPerDay[this.birdsPerDay.Length - 1];
-    }
+    public int Today() => this.birdsPerDay[this.birdsPerDay.Length - 1];
 
     public void IncrementTodaysCount()
     {
@@ -32,6 +23,7 @@ class BirdCount
             if (day == 0)
                 return true;
         }
+        
         return false;
     }
 
@@ -42,6 +34,7 @@ class BirdCount
         {
             count += this.birdsPerDay[i];
         }
+
         return count;
     }
 
@@ -53,6 +46,7 @@ class BirdCount
             if (day >= 5)
                 busyDays++;
         }
+
         return busyDays;
     }
 }
